@@ -113,7 +113,7 @@ SpeechRecognition==3.8.1
 sqlparse==0.3.0
 standalone==1.0.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 torch==1.1.0.post2
