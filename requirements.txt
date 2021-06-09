@@ -29,7 +29,7 @@ dash-renderer==1.0.1
 dash-table==4.2.0
 db==0.1.1
 decorator==4.4.0
-Django==2.2.5
+Django==2.2.22
 docutils==0.15.2
 Flask==1.1.1
 Flask-Compress==1.4.0
