@@ -18,7 +18,7 @@ Click==7.0
 colorama==0.4.1
 colour==0.1.5
 conda==4.3.16
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 cycler==0.10.0
 dash==1.2.0
 dash-bio==0.1.4
