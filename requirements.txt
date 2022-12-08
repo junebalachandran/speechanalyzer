@@ -10,7 +10,7 @@ audioread==2.1.8
 backcall==0.1.0
 binaryornot==0.4.4
 biopython==1.74
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 chart-studio==1.0.0
